@@ -1,0 +1,37 @@
+body {
+
+	background: #D8D8D8
+
+}
+
+.Principal {
+
+ text-align: center;
+ font-size: 38px;
+ font-style: italic;
+ color: white;
+ background: #424242;
+ padding: 10px;
+
+}
+
+a {
+
+ color: darkblue
+
+}
+
+.Texto {
+
+font-size: 23px;
+text-align: center;
+
+}
+
+#Imagem1 {
+
+ position: center
+ width: 50%;
+ height: 300px;
+
+}
